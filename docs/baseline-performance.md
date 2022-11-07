@@ -1,5 +1,5 @@
 # baseline performance
-While convolutional networks have been around for a long time, they have recently found success. The advancements in technology have allowed larger networks than ever before and even bigger datasets of training images. The capacity and capabilities of deep convolutional networks have risen rapidly in recent years.
+While convolutional networks have been around for a long time, they have recently been having much success. The advancements in technology have allowed larger networks than ever before and even bigger datasets of training images. The capacity and capabilities of deep convolutional networks have risen rapidly in recent years.
 
 Typically convolutional networks are used for classification and given a fairly large image to classify to a single class label. Through a revolutionary method of localization, a method in which a large image is broken down into many smaller images called patches.
 
