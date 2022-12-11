@@ -14,4 +14,4 @@
 
 From the results of training our model with 100 epochs; we see that we can train our model relatively well, with a decent improvement for training loss as well as IoU. But validation loss and Iou gains were only marginal, seemingly stagnant.
 
-Bumping up the epochs to 200; training and loss and IoU continue to increase. However the validation loss and IoU seem toi get worse. This shows our model is gettign very good at predicting on its training data but does not handle new data very well
+Bumping up the epochs to 200; training and loss and IoU continue to increase. However the validation loss and IoU seem toi get worse. This shows our model is good at predicting on its training data but does not handle new data very well.
