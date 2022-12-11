@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/102538462/206788343-e18abf09-fc7e-47ab-8dc6-96ea10e8244e.png)
 
-200 eppchs:
+200 epochs:
 ![image](https://user-images.githubusercontent.com/102538462/206932724-2382e03e-bcab-4c84-94cb-9f2168c74b3b.png)
 
 ![image](https://user-images.githubusercontent.com/102538462/206932735-c00a2352-07da-4df9-b78a-6a3d0d22e534.png)
